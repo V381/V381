@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavle Paunovic</h1>
-<h3 align="center">A very passionate and creative person specializing in JavaScript, Clojure and Guitar educator on Youtube!.</h3>
+<h3 align="center">A very passionate and creative person specializing in JavaScript, Clojure and Guitar tutoring on Youtube!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v381&label=Profile%20views&color=0e75b6&style=flat" alt="v381" /> </p>
 
