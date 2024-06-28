@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pavle-paunovic-96244282](https://www.linkedin.com/in/pavle-paunovic-96244282/)
 
-- ⚡ Fun fact **Youtube Guitar Educator**
+- ⚡ Fun fact **Youtube Guitar Educator with over 100 000 views in total**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
