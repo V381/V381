@@ -38,5 +38,5 @@
 
 <br clear="both">
 
-![Snake animation](V381)
+![GitHub Snake Animation](https://github.com/V381/V381/blob/output/snake.svg)
 ###
