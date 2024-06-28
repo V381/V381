@@ -34,4 +34,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+<img src="![image](https://github.com/V381/V381/assets/6571167/aaf19b83-bde4-478f-a4f4-7f4c7379121f)
+" alt="Snake animation" />
