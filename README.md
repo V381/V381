@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pavle1027@gmail.com**
 
-- 📄 Know about my experiences [https://www.pavlepaunovic.com/assets/Pavle%20Paunovic%20-%20CV%20-%202023.pdf](https://www.pavlepaunovic.com/assets/Pavle%20Paunovic%20-%20CV%20-%202023.pdf)
+- 📄 Know about my experiences [https://www.linkedin.com/in/pavle-paunovic-96244282](https://www.linkedin.com/in/pavle-paunovic-96244282/)
 
 - ⚡ Fun fact **Youtube Guitar Educator**
 
