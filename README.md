@@ -38,6 +38,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/V381/V381/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](V381)
 ###
