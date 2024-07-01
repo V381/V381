@@ -35,5 +35,4 @@
 
 <br clear="both">
 
-![GitHub Snake Animation](https://github.com/V381/V381/blob/output/github-contribution-grid-snake.svg)
-###
+https://github.com/V381/V381/blob/output/github-contribution-grid-snake.gif
