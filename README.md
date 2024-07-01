@@ -35,4 +35,4 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/V381/V381/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake](https://github.com/V381/V381/blob/output/github-snake.svg)
