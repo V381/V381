@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Clojure**
 
-- 👨‍💻 All of my projects are available at [www.pavlepaunovic.com](www.pavlepaunovic.com)
-
 - 💬 Ask me about **JavaScript and Guitar!**
 
 - 📫 How to reach me **pavle1027@gmail.com**
