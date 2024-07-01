@@ -35,4 +35,4 @@
 
 <br clear="both">
 
-![GitHub Snake](https://github.com/V381/V381/blob/output/github-snake.svg)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/V381/V381/output/github-contribution-grid-snake.svg" />
