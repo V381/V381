@@ -10,7 +10,7 @@ I'm a passionate developer and creative soul who loves crafting web experiences 
 
 ## 🎯 Current Focus
 
-- 🚀 Building [V-Resume Builder](https://www.create-your-cv.com/landing.html) - Empowering people to create stunning resumes
+- 🚀 Building [V-Music-Teacher](https://v-music-training.vercel.app/login) - Empowering people to learn music
 - 🌱 Deep diving into **Clojure** and functional programming
 - 📚 Author of 6 books (2 on guitar, 4 on programming)
 - 🎸 YouTube Guitar Educator with 100,000+ total views
